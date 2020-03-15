@@ -8,9 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d35d6de-e752-414c-808e-6fa21f626e0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MC Pool Calculator/mCBuild/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MC Pool Calculator/mCBuild/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MC Pool Calculator/mCBuild/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MC Pool Calculator/mCBuild/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mCBuild/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mCBuild/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583418908233</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1584236869144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584236869144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +116,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="420" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583595202959">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -124,14 +135,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="695" y="314" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584232325322" />
-    <state x="656" y="112" key="CommitChangelistDialog2" timestamp="1584235929087">
+    <state x="656" y="112" key="CommitChangelistDialog2" timestamp="1584236868005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584235929087" />
+    <state x="656" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584236868005" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583684677180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583684677180" />
+    <state x="813" y="413" key="Github.ShareDialog" timestamp="1584237015349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584237015349" />
     <state width="1877" height="421" key="GridCell.Tab.0.bottom" timestamp="1584206978757">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -156,10 +171,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584232327905" />
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584235941305">
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584237861896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584235941305" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584237861896" />
     <state x="91" y="0" key="new project wizard" timestamp="1583495708111">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -168,5 +183,16 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583491694428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mCBuild/Main.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

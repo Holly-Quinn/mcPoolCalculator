@@ -22,7 +22,7 @@ import java.lang.Math;
 //main class - program runs in this class
 public class Main {
 
-    //main class - program runs from here
+    //main method - program runs from here
     public static void main(String[] args) {
 
         Person user = new Person();
