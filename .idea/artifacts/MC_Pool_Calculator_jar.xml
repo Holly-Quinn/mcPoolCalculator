@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MC Pool Calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MC_Pool_Calculator_jar</output-path>
+    <root id="archive" name="MC Pool Calculator.jar">
+      <element id="module-output" name="MC Pool Calculator" />
+    </root>
+  </artifact>
+</component>
