@@ -1,7 +1,10 @@
+//package name
 package mCBuild;
 
+//imports the scanner
 import java.util.Scanner;
 
+//sets up a new class called person
 public class Person {
 
     //private variables - used with getters/setters
@@ -18,6 +21,7 @@ public class Person {
     //Setter for first name
     public void setFirstName () {
 
+        //sets up a new scanner object and then gets the user to enter a value for first name
         Scanner sc = new Scanner (System.in);
         System.out.println("Please Enter your First Name : ");
         String firstName = sc.nextLine();
@@ -35,6 +39,7 @@ public class Person {
     //Setter for last name
     public void setLastName () {
 
+        //sets up a new scanner object and then gets the user to enter a value for last name
         Scanner sc = new Scanner (System.in);
         System.out.println("Please Enter your Last Name : ");
         String lastName = sc.nextLine();
