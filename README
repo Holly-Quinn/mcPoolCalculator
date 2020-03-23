@@ -2,3 +2,9 @@ This Java program was created for Assignment 2 of my Programming Principles Modu
 
 RUNNING THE PROGRAM
 Simply Double click on the MC Pool Calculator shortcut. The program will open in command prompt.
+
+FINDING THE .EXE FILE
+the .EXE file is found under ~\out\artifacts\MC_Pool_Calculator_jar
+
+FINDING THE SOURCE FILES
+The Java source files are found under ~\src\mCBuild. You will find 2 files of interest: Main.java and Person.java
